@@ -1,0 +1,54 @@
+Message-ID: <41d23778492169849afc1534c9b3db8f@127.0.0.15>
+Date: Thu, 09 Nov 2017 07:37:41 +0000
+Subject: =?utf-8?Q?=E6=89=BE=E5=9B=9E=E5=AF=86=E7=A0=81?=
+From: hkbmail@126.com
+To: 280594803@qq.com
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_=_swift_v4_1510213061_a649a39d18b64873716d880bdee175e5_=_"
+
+
+--_=_swift_v4_1510213061_a649a39d18b64873716d880bdee175e5_=_
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=E5=B0=8A=E6=95=AC=E7=9A=84admin
+
+=E6=82=A8=E7=9A=84=E6=89=BE=E5=9B=
+=9E=E5=AF=86=E7=A0=81=E7=9A=84=E9=93=BE=E6=8E=A5=E5=A6=82=E4=B8=8B
+http://127.0.0.15/index.php?r=3Dadmin%2Fmanage%2Fmailchangepass&timestamp=
+=3D1510213061&adminuser=3Dadmin&token=3Dd95bfae3c7290920465cc695db4a49e9
+=
+
+=E8=AF=A5=E9=93=BE=E6=8E=A55=E5=88=86=E9=92=9F=E5=86=85=E6=9C=89=
+=E6=95=88
+
+--_=_swift_v4_1510213061_a649a39d18b64873716d880bdee175e5_=_
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org=
+/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns=3D"http://www.w3.org/1999/=
+xhtml">
+<head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/ht=
+ml; charset=3DUTF-8" />
+    <title></title>
+    </head>
+<body>
+    =
+    <p>=E5=B0=8A=E6=95=AC=E7=9A=84admin</p>
+
+<p>=E6=82=A8=E7=9A=84=E6=89=BE=E5=9B=9E=E5=AF=86=E7=A0=81=E7=9A=84=E9=93=
+=BE=E6=8E=A5=E5=A6=82=E4=B8=8B</p>
+<p><a href=3D"<php echo $url>">http://127.0.0.15/index.php?r=3Dadmin%2Fmana=
+ge%2Fmailchangepass&timestamp=3D1510213061&adminuser=3Dadmin&token=3Dd95bfa=
+e3c7290920465cc695db4a49e9</a></p>
+
+<p>=E8=AF=A5=E9=93=BE=E6=8E=A55=E5=88=86=E9=92=9F=E5=86=85=E6=9C=89=
+=E6=95=88</p>    </body>
+</html>
+
+
+--_=_swift_v4_1510213061_a649a39d18b64873716d880bdee175e5_=_--
